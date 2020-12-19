@@ -1,6 +1,6 @@
 #burada sadece udemy derslerindeki örneklerden bazılarını yapıcam
 #liste oluşturma
-liste=[1,2,3,4,5,"batuhan","alpan"]
+liste=[1,2,3,4,5,"barkın","yağız"]
 liste2=list([12,13,14,15,"merhaba","dünya"])
 
 liste3=list("bugün nasılsın")
